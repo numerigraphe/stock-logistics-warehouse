@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_report_stock_traceability_operation_user,report.stock.traceability_operation_user,model_report_stock_traceability_operation,stock.group_stock_user,1,0,0,0
+access_report_stock_traceability_operation_manager,report.stock.traceability_operation_manager,model_report_stock_traceability_operation,stock.group_stock_manager,1,0,0,0
